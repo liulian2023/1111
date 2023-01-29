@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.COINUP.app",
+  "variantName": "COINUPRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 140,
+      "versionName": "140.0.0",
+      "outputFile": "com.COINUP.app_140.0.0.apk"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.njr.sep016.gsex",
+  "variantName": "GSEXRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 140,
+      "versionName": "1.4.0",
+      "outputFile": "com.njr.sep016.gsex_1.4.0.apk"
+    }
+  ]
+}

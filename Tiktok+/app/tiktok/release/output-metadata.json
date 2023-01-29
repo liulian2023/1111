@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.shop.dec12.tkmall",
+  "variantName": "tiktokRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 256,
+      "versionName": "256.0.1",
+      "outputFile": "com.shop.dec12.tkmall_256.0.1.apk"
+    }
+  ]
+}

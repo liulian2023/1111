@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tassies.mt5",
+  "variantName": "tassiesRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 2,
+      "versionName": "1.0.2",
+      "outputFile": "com.tassies.mt5_1.0.2.apk"
+    }
+  ]
+}

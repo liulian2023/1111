@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/Tiktok+/app/src/bounty/res/drawable/splash.xml" value="0.25025641025641027" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/hjyl/res/drawable/main_bitmap_splash_bg.xml" value="0.203125" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/hjyl/res/drawable/splash.xml" value="0.203125" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/laz/res/drawable/main_bitmap_splash_bg.xml" value="0.21041666666666667" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/laz/res/drawable/splash.xml" value="0.16145833333333334" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/main/res/drawable/main_bitmap_splash_bg.xml" value="0.203125" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/main/res/drawable/splash.xml" value="0.1890625" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/mt5_MGCCKJ/res/drawable/splash.xml" value="0.14583333333333334" />
+        <entry key="..\:/ANDROID/Tiktok+/app/src/tiger/res/drawable/splash.xml" value="0.14583333333333334" />
+        <entry key="app/src/emoney/res/drawable/splash.xml" value="0.215" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

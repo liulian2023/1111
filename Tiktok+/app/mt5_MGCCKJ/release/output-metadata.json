@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mt5.MGCCKJ",
+  "variantName": "mt5_MGCCKJRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 5003537,
+      "versionName": "5003537.0.1",
+      "outputFile": "com.mt5.MGCCKJ_5003537.0.1.apk"
+    }
+  ]
+}

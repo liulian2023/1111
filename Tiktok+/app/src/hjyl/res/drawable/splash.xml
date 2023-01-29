@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        >
+           <bitmap
+               android:gravity="center"
+               android:src="@mipmap/splash_bg" />
+    </item>
+
+<!--    <item android:gravity="bottom"-->
+<!--        android:bottom="@dimen/dimen_dp50">-->
+<!--        <bitmap-->
+<!--            android:gravity="bottom"-->
+<!--            android:src="@drawable/ic_splash_logo2" />-->
+<!--    </item>-->
+
+</layer-list>

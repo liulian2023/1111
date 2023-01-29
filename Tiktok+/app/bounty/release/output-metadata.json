@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.shop.dec12.tkmall",
+  "variantName": "bountyRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 255,
+      "versionName": "2.5.5",
+      "outputFile": "2.5.5_20221213_0002.apk"
+    }
+  ]
+}
